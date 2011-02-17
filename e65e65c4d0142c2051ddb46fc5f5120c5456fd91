@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAACX//+0M\u003d",
+        "filename": "res/values-nb/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 444
+      },
+      "writtenOn": "2011-02-17T04:26:17Z",
+      "side": 1,
+      "message": "For å aktivere meldinger om nye versjoner må du registrere din enhet hos oppdateringserverne",
+      "revId": "e65e65c4d0142c2051ddb46fc5f5120c5456fd91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAACX//+0I\u003d",
+        "filename": "res/values-nb/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 444
+      },
+      "writtenOn": "2011-02-17T04:26:17Z",
+      "side": 1,
+      "message": "Nattlige utgivelser",
+      "revId": "e65e65c4d0142c2051ddb46fc5f5120c5456fd91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
