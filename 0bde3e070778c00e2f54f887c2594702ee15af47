@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAACX//+xQ\u003d",
+        "filename": "res/values-nb/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 444
+      },
+      "writtenOn": "2011-02-17T07:39:07Z",
+      "side": 1,
+      "message": "Resubmit etter å ha fikset typos i denne linjen :)",
+      "revId": "0bde3e070778c00e2f54f887c2594702ee15af47",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
