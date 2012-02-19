@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAQX//+c8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-02-19T05:34:25Z",
+      "side": 1,
+      "message": "Past CyanogenMod niet voluit? Zou wel mijn voorkeur hebben (en is ook weer consequent met andere talen).",
+      "revId": "dbd6fde9ba4756551a7b83abaeba6503c6d179b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAQX//+c0\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-02-19T05:34:25Z",
+      "side": 1,
+      "message": "Wederom mijn opmerkingen over CM/CyanogenMod",
+      "revId": "dbd6fde9ba4756551a7b83abaeba6503c6d179b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAQX//+cw\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-02-19T05:34:25Z",
+      "side": 1,
+      "message": "Nightly is niet echt een alpha. En los daarvan is nightly een begrip op zich.",
+      "revId": "dbd6fde9ba4756551a7b83abaeba6503c6d179b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAQX//+c4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-02-19T05:34:25Z",
+      "side": 1,
+      "message": "Moet de tweede \"voor\" niet \"van\" zijn?",
+      "revId": "dbd6fde9ba4756551a7b83abaeba6503c6d179b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
